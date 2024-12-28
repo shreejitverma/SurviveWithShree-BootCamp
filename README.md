@@ -1,8 +1,3 @@
-# SurviveWithShree-BootCamp
-
-Here’s the markdown-formatted version of the above response:
-
-```markdown
 # **SurviveWithShree-BootCamp**  
 Welcome to the **SurviveWithShree-BootCamp** repository! 🎓 This is your one-stop resource for mastering interview preparation. Together, we’ll cover everything from algorithms and data structures to resumes and LinkedIn optimization.  
 
@@ -86,4 +81,3 @@ Join the discussion on our **Discord Server** or open an issue in this repositor
 ---
 
 Let’s collaborate, learn, and succeed together! 🚀  
-```
